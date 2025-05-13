@@ -1,0 +1,16 @@
+{
+    "name": "Dokk",
+    "short_name": "Dokk",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff3131",
+    "description": "Your voice-first AI life assistant",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
